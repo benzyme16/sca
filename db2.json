@@ -1,9 +1,18 @@
-^2[+] New Auth
-^2[+] Secuirty manifest
-^2[+] Remove Weapon Detection
+^2[+] Resource Counter
+^2[+] Resource Value Checker
+^2[+] Kvp Resource Checker
+^2[+] Random String Resource checker
+^2[+] Detecting asi menus and such
+^2[+] Detected externals (executors)
+^2[+] Remove Weapon protection
+^2[+] Anti Freeze anticheat
+^2[+] Anti stall injection, detecting file directory on executors
+^2[+] Adaptive cards on deferrals
 
+^3[!] Improved ban system and banning tokens and such
 ^3[!] Optimized
-
-^1[-] SpeedHack
-^1[-] Other that can cause falsebans
-^0
+^3[!] Improved weapon modifier detection
+^3[!] Improved AI Detection which will nearly detect all lua menus
+^3[!] Improved godmode detection
+^3[!] Improved spectate detection
+^3[!] Improved aimbot detection^0
